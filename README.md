@@ -1,2 +1,2 @@
-# WordCounter
-A word counter
+# Word counter
+A simple word counter
