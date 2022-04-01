@@ -1,0 +1,2 @@
+# WordCounter
+A word counter
